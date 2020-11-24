@@ -2,7 +2,7 @@
 
 ```
 $ npm run build
-# GIT push
+$ git push origin master
 ```
 
 You can use https://github.com/infotechinc/public-key-encryption-in-browser.

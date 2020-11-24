@@ -1,6 +1,5 @@
 
 export default {
-  buildDir: 'docs',
   mode: 'spa',
   head: {
     htmlAttrs: { lang: 'en' },
@@ -19,6 +18,9 @@ export default {
     scss: [
       './assets/_mixins.scss'
     ]
+  },
+  generate: {
+    dir: 'docs'
   },
   css: [
   ],
