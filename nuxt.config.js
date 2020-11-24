@@ -13,6 +13,10 @@ export default {
       { rel: 'icon', type: 'image/png', href: '/favicon.png' }
     ]
   },
+  target: 'static',
+  router: {
+    base: '/genobank-decoder/'
+  },
   loading: { color: '#0971FF' },
   styleResources: {
     scss: [

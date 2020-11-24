@@ -1,7 +1,7 @@
 ## Deploy
 
 ```
-$ npm run build
+$ npm run generate
 $ git push origin master
 ```
 
