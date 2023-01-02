@@ -14,7 +14,7 @@
     "@nuxtjs/axios": "^5.9.5",
     "@nuxtjs/toast": "^3.3.0",
     "eccrypto-js": "^5.3.0",
-    "nuxt": "^2.11.0",
+    "nuxt": "^3.0.0",
     "vee-validate": "^3.2.5"
   },
   "devDependencies": {
@@ -25,7 +25,7 @@
     "eslint": "^6.8.0",
     "eslint-plugin-nuxt": ">=0.5.1",
     "node-sass": "^4.13.1",
-    "sass-loader": "^8.0.2",
+    "sass-loader": "^13.2.0",
     "sass-resources-loader": "^2.0.1"
   }
 }
